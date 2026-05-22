@@ -18,7 +18,7 @@ Skills Used
 •	Data Cleaning & Transformation
 •	Business Analytics
 Dashboard Screenshot
-![Dashboard Screenshot1](Dashboard_screenshot.png)
+![Dashboard Screenshot](Dashbord_Screenshot.png)
  
 Conclusion
 This project demonstrates how Power BI can be used to transform raw sales data into meaningful business insights through interactive dashboards and visual storytelling.
