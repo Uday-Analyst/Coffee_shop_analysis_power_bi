@@ -33,6 +33,8 @@ Skills Used
 
 Dashboard Screenshot
 ![Dashboard Screenshot](Dashbord_Screenshot.png)
+
+See On This POst on Linkdin:- https://www.linkedin.com/posts/uday-kakad-045976322_powerbi-dataanalytics-dashboarddesign-activity-7462351599059759104-3t5I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGoK7UBdOtGb27rS8_rCE-uogb9uftbs7A
  
 Conclusion
 This project demonstrates how Power BI can be used to transform raw sales data into meaningful business insights through interactive dashboards and visual storytelling.
